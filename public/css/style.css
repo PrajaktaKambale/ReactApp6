@@ -30,3 +30,7 @@
 .button-delete {
   cursor: pointer;
 }
+
+.btn-warning {
+  margin: 5px !important;
+}
